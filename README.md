@@ -1,4 +1,4 @@
-SAM DELAL V PODVALE 2 WEEKS
+# SAM DELAL V PODVALE 2 WEEKS 
 you need pywal and his forks for everything to make it work 
 
 ![photo_2_2024-09-27_23-20-34](https://github.com/user-attachments/assets/85fa1460-eb75-472d-aa7b-e67dc50e4290)
